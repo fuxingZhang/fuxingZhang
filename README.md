@@ -26,9 +26,7 @@
                 <p style="padding: 0; margin: 0;">Go</p>
             </div>
         </td>
-    </tr>
-    <tr style="width: 100%;">
-            <td align="center" width="96">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">Nodejs</p>
@@ -46,12 +44,10 @@
                 <p style="padding: 0; margin: 0;">Kubernetes</p>
             </div>
         </td>
-    </tr>
-    <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="./images/vue.png" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">Vue</p>
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">MySQL</p>
             </div>
         </td>
         <td align="center" width="96">
@@ -62,8 +58,8 @@
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">MySQL</p>
+                <img src="./images/vue.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Vue</p>
             </div>
         </td>
     </tr>
