@@ -1,8 +1,6 @@
-# 🌱 Sand Hope
+# 🌱 [Sand Hope](https://github.com/sandhope)
 
 <img width="500" src="./images/logo-large.jpg">
-
-<!-- ![logo](./images/logo-large.jpg) -->
 
 ### 🌱 Sand Hope — Where every grain of sand unites to form an oasis of life and possibility.
 
